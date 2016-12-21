@@ -1,0 +1,14 @@
+{
+  "name": "deimos/test-project",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "deimos/paginate": "^0.1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
